@@ -66,3 +66,23 @@ Learn → Build → Deploy → Improve
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🌏 **Viranikosh** | 🌐 **GlobeX-AI** |
+|---|---|
+| **Smart India Hackathon 2026** • Team Vanguard | AI-powered hackathon project |
+| Digital preservation of India's folk art, oral traditions and cultural knowledge using AI and community verification. | Intelligent web-based solution built with modern frontend technologies. |
+| `AI` `Data Science` `MLOps` `DevOps` `CI/CD` | `JavaScript` `AI` `Web Development` |
+
+| ❤️ **Heart Disease Analysis** | 🏠 **Real Estate Prediction** |
+|---|---|
+| Data analysis & risk assessment dashboard. | Machine-learning based house price prediction. |
+| `Python` `Pandas` `Matplotlib` `Seaborn` | `Python` `Scikit-learn` `Machine Learning` |
+
+</div>
