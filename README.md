@@ -149,6 +149,14 @@ Learn → Build → Deploy → Improve
 <!-- ========================================================= -->
 <!--              ⚡ GITHUB COMMAND CENTER                     -->
 <!-- ========================================================= -->
+## 🏆 Highlights
+
+🏆 2× Hackathon Participant
+🥉 Rank 3 — Semester II
+📊 9.3+ CGPA  
+🚀 AI • Data Science • Engineering Projects  
+🏃 Competitive Sprinter Athletics • Since 2014
+<!-- ================================================-->
 
 <h2 align="center">⚡ GitHub Command Center</h2>
 
