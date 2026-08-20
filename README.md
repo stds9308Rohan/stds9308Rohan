@@ -11,9 +11,8 @@ Building intelligent, data-driven and real-world solutions.
 
 </div>
 
----
 
- 👨‍💻 About Me
+👨‍💻 About Me
 
 🎓 B.Sc. Data Science & AI student at B.K. Birla College  
 🤖 Interested in Machine Learning, Artificial Intelligence & Computer Vision  
@@ -21,5 +20,12 @@ Building intelligent, data-driven and real-world solutions.
 ⚙️ Exploring DevOps, MLOps, CI/CD & AI deployment  
 🏆 Smart India Hackathon 2026 — Team Vanguard  
 🚀 Currently working on **Viranikosh**, an AI-powered cultural heritage preservation platform
+🎯 Current Focus
 
-> **Learn → Build → Deploy → Improve**
+📚 Strengthening my **Data Science & Machine Learning** skills
+⚙️ Learning **MLOps, Docker, CI/CD and deployment**
+🧠 Building practical **AI-powered applications**
+🚀 Contributing to real-world **hackathon projects**
+
+
+Learn → Build → Deploy → Improve
