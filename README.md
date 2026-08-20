@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="./assets/data-engineering-banner.svg"
+    width="100%"
+    alt="Rohan Naik - Data Engineering Banner"
+  />
+</p>
 <!-- 🚀 ANIMATED PROFILE HEADER -->
 
 <p align="center">
