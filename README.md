@@ -69,16 +69,14 @@ Learn → Build → Deploy → Improve
 
 
 ---
----
-
-## ⚙️ Data Engineering Pipeline
 
 <div align="center">
 
-<img src="./assets/data-engineering-pipeline.svg" width="100%" alt="Data Engineering Pipeline"/>
+<img src="./assets/data-stream.svg"
+     width="100%"
+     alt="Animated Data Engineering Banner"/>
 
 </div>
-
 
 ## 🔥 GitHub Stats & Analytics
 
