@@ -35,15 +35,26 @@
     width="90%"
   />
 </p>
+<p align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### ⚡ Building Intelligent Systems from Data
+
+**Data Science & AI Student** • **Machine Learning** • **Data Engineering** • **MLOps** • **DevOps**
+
+</p>
+
+---
 
 ### 🧠 About Me
 
-🎓 **Data Science & AI Student**  
-🤖 **Machine Learning & AI Enthusiast**  
-⚙️ **Data Engineering & ETL**  
-🚀 **MLOps & DevOps Explorer**  
+🎓 Data Science & AI Student  
+⚙️ Building Data Pipelines & ETL Workflows  
+🤖 Exploring Machine Learning & AI  
+🚀 Learning MLOps & DevOps  
+📊 Turning raw data into intelligent solutions
+
+
+
 📊 **Building data-driven applications and intelligent systems**
 
 > **My focus:** Building the complete journey from **raw data → reliable pipelines → machine learning → actionable insights.**
