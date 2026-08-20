@@ -61,15 +61,6 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:020617&height=100&section=footer"
-    width="100%"
-  />
-</p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Student;Machine+Learning+Enthusiast;Exploring+MLOps+%26+DevOps;Building+AI-Powered+Solutions;Smart+India+Hackathon+2026+%7C+Team+Vanguard)](https://git.io/typing-svg)
-
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stds9308Rohan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-naik-87a4b33b0/)
 
