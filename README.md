@@ -44,23 +44,10 @@
 </p>
 
 ---
-
-### 🧠 About Me
-
-🎓 Data Science & AI Student  
-⚙️ Building Data Pipelines & ETL Workflows  
-🤖 Exploring Machine Learning & AI  
-🚀 Learning MLOps & DevOps  
-📊 Turning raw data into intelligent solutions
-
-
-
-📊 **Building data-driven applications and intelligent systems**
-
 > **My focus:** Building the complete journey from **raw data → reliable pipelines → machine learning → actionable insights.**
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
+<p align="center">
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stds9308Rohan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-naik-87a4b33b0/)
 
