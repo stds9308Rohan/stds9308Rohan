@@ -69,27 +69,16 @@ Learn → Build → Deploy → Improve
 
 
 ---
+---
 
-## 🚀 Featured Projects
+## ⚙️ Data Engineering Pipeline
 
 <div align="center">
 
-| 🌏 **Viranikosh** | 🌐 **GlobeX-AI** |
-|---|---|
-| **Smart India Hackathon 2026** • Team Vanguard | AI-powered hackathon project |
-| Digital preservation of India's folk art, oral traditions and cultural knowledge using AI and community verification. | Intelligent web-based solution built with modern frontend technologies. |
-| `AI` `Data Science` `MLOps` `DevOps` `CI/CD` | `JavaScript` `AI` `Web Development` |
-
-| ❤️ **Heart Disease Analysis** | 🏠 **Real Estate Prediction** |
-|---|---|
-| Data analysis & risk assessment dashboard. | Machine-learning based house price prediction. |
-| `Python` `Pandas` `Matplotlib` `Seaborn` | `Python` `Scikit-learn` `Machine Learning` |
+<img src="./assets/data-engineering-pipeline.svg" width="100%" alt="Data Engineering Pipeline"/>
 
 </div>
 
----
-
----
 
 ## 🔥 GitHub Stats & Analytics
 
