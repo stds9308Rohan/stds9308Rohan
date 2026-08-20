@@ -87,6 +87,37 @@ Learn → Build → Deploy → Improve
 ---
 
 🛠️ Tech Arsenal
+## 🧠 Tech Stack
+
+### 👨‍💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
+</p>
+
+### 📊 Data Science
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Jupyter`
+
+### 🗄️ Data & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+### ⚙️ Engineering & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+</p>
+
+### 🤖 AI / ML
+
+`Scikit-learn` `TensorFlow` `OpenCV` `YOLO`
+
+### 📈 Visualization
+
+`Power BI` `Matplotlib` `Seaborn`
 
 ### 👨‍💻 Languages
 
@@ -124,11 +155,6 @@ Learn → Build → Deploy → Improve
 
 ---
 
-<div align="center">
-
-<img src="./assets/data-stream.svg"
-     width="100%"
-     alt="Animated Data Engineering Banner"/>
 
 </div>
 
