@@ -1,9 +1,54 @@
-<div align="center">
+<!-- 🚀 ANIMATED PROFILE HEADER -->
 
-# 👋 Hi, I'm Rohan Naik
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F3B5F,75:075985,100:06B6D4&height=230&section=header&text=ROHAN%20NAIK&fontSize=58&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=DATA%20SCIENCE%20%26%20AI%20%7C%20ML%20%7C%20DATA%20ENGINEERING%20%7C%20MLOps%20%7C%20DevOps&descSize=17&descAlignY=60&descColor=E0F2FE"
+    width="100%"
+  />
+</p>
 
-### Data Science & AI Student | Machine Learning | MLOps | DevOps
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=850&lines=Data+Science+%26+AI+Student;Building+Machine+Learning+Solutions;Designing+Data+Pipelines+%26+ETL+Workflows;Exploring+MLOps+%26+DevOps;Turning+Raw+Data+into+Intelligent+Systems"
+    alt="Typing Animation"
+  />
+</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,pandas,numpy,sklearn,tensorflow,git,github,docker,linux&perline=10" />
+</p>
+
+<p align="center">
+  <b>⚡ Data → Engineering → Intelligence → Impact</b>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:0284C7,100:0F172A&height=3&section=header"
+    width="90%"
+  />
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### 🧠 About Me
+
+🎓 **Data Science & AI Student**  
+🤖 **Machine Learning & AI Enthusiast**  
+⚙️ **Data Engineering & ETL**  
+🚀 **MLOps & DevOps Explorer**  
+📊 **Building data-driven applications and intelligent systems**
+
+> **My focus:** Building the complete journey from **raw data → reliable pipelines → machine learning → actionable insights.**
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:020617&height=100&section=footer"
+    width="100%"
+  />
+</p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Student;Machine+Learning+Enthusiast;Exploring+MLOps+%26+DevOps;Building+AI-Powered+Solutions;Smart+India+Hackathon+2026+%7C+Team+Vanguard)](https://git.io/typing-svg)
 
 
