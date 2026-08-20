@@ -158,10 +158,123 @@ Learn → Build → Deploy → Improve
 
 </div>
 
-## 🔥 GitHub Stats & Analytics
+<!-- ========================================================= -->
+<!--              ⚡ GITHUB COMMAND CENTER                     -->
+<!-- ========================================================= -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stds9308Rohan&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=ffffff&bg_color=0d1117)
+<h2 align="center">⚡ GitHub Command Center</h2>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stds9308Rohan&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=ffffff&background=0d1117)
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&height=45&lines=Code+%7C+Commit+%7C+Build+%7C+Deploy;Engineering+Ideas+into+Working+Systems;Every+Commit+is+Progress+%E2%9A%A1"
+    alt="GitHub Activity"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stds9308Rohan&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=ffffff&bg_color=0d1117)
+<br>
+
+<!-- ===================== LIVE STATS ======================== -->
+
+<p align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stds9308Rohan&theme=github_dark&animation=rise&duration=3"
+    width="48%"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stds9308Rohan&theme=github_dark&animation=draw&duration=3"
+    width="48%"
+    alt="Top Languages"
+  />
+
+</p>
+
+<br>
+
+<!-- ================= PROFILE DETAILS ====================== -->
+
+<p align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stds9308Rohan&theme=github_dark&animation=rgb-soft&duration=8"
+    width="96%"
+    alt="GitHub Profile Activity"
+  />
+
+</p>
+
+<br>
+
+<!-- ==================== ACTIVITY =========================== -->
+
+<h3 align="center">🔥 Contribution Activity</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=stds9308Rohan&bg_color=0d1117&color=36BCF7&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=ROHAN%20NAIK%20%E2%80%94%20CODE%20ACTIVITY"
+    width="96%"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+<br>
+
+<!-- ==================== METRICS ============================ -->
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### ⚡ CODE
+
+**Build**
+
+Python • SQL  
+ML • AI
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔄 ENGINEER
+
+**Pipeline**
+
+ETL • APIs  
+Data • MLOps
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀 DEPLOY
+
+**Impact**
+
+Git • Docker  
+DevOps • Cloud
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ==================== FOOTER ============================= -->
+
+<p align="center">
+
+  <img
+    src="https://komarev.com/ghpvc/?username=stds9308Rohan&label=PROFILE+VIEWS&style=for-the-badge&color=36BCF7"
+    alt="Profile Views"
+  />
+
+</p>
+
+<p align="center">
+  <b>⚡ CODE → DATA → INTELLIGENCE → IMPACT</b>
+</p>
