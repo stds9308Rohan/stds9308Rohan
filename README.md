@@ -86,3 +86,23 @@ Learn → Build → Deploy → Improve
 | `Python` `Pandas` `Matplotlib` `Seaborn` | `Python` `Scikit-learn` `Machine Learning` |
 
 </div>
+
+---
+
+## 🔥 GitHub Stats & Analytics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=stds9308Rohan&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=ffffff&bg_color=0d1117" width="48%" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stds9308Rohan&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=ffffff&background=0d1117" width="48%" alt="GitHub Streak" />
+
+</div>
+
+<br>
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stds9308Rohan&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+
+</div>
