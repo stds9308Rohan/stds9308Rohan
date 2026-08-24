@@ -82,18 +82,25 @@ Core coursework spans statistics, Python programming, data analysis, and the fou
 </table>
 
 ## B.Sc. Data Science & AI student at B.K. Birla College  
-🤖 Interested in Machine Learning, Artificial Intelligence & Computer Vision  
-📊 Building data-driven applications and ML projects  
-⚙️ Exploring DevOps, MLOps, CI/CD & AI deployment  
-🏆 Smart India Hackathon 2026 — Team Vanguard  
-🚀 Currently working on **Viranikosh**, an AI-powered cultural heritage preservation platform
-🎯 Current Focus
-📚 Strengthening my **Data Science & Machine Learning** skills
-⚙️ Learning **MLOps, Docker, CI/CD and deployment**
-🧠 Building practical **AI-powered applications**
-🚀 Contributing to real-world **hackathon projects**
+> Building a strong foundation in **Data Science, Artificial Intelligence, Machine Learning, and Data Engineering** through academics, hands-on projects, and hackathons.
+> 
+### ⚡ What I Do
 
+- 🤖 Explore **Machine Learning, Artificial Intelligence & Computer Vision**
+- 📊 Build **data-driven applications and ML solutions**
+- ⚙️ Develop skills in **Data Engineering, MLOps & DevOps**
+- 🔄 Learn **CI/CD, Docker & AI deployment workflows**
+- 🏆 Participate in **Hackathons & real-world technical projects**
+- 🚀 Currently working on **Viranikosh** — an AI-powered cultural heritage preservation platform
 
+### 🎯 Current Focus
+
+```text
+📚 Data Science & Machine Learning
+⚙️ Data Engineering & ETL Pipelines
+🐳 Docker & CI/CD
+🤖 AI / ML Deployment
+🚀 Building Production-Ready Projects
 Learn → Build → Deploy → Improve
 ---
 
