@@ -56,15 +56,38 @@
 
 
 👨‍💻 About Me
+## 🎓 Education
 
-🎓 B.Sc. Data Science & AI student at B.K. Birla College  
+<table>
+<tr>
+<td width="70%">
+
+### B.Sc. in Data Science & AI
+**B.K. Birla College, Kalyan**
+
+Core coursework spans statistics, Python programming, data analysis, and the foundations of machine learning — paired with self-driven project work outside the classroom.
+
+</td>
+
+<td width="30%" align="center">
+
+<img src="https://img.shields.io/badge/CGPA-9.23%2F10-64FFDA?style=for-the-badge&labelColor=333333&color=64FFDA" alt="CGPA 9.23/10">
+
+<br><br>
+
+<i>First Year</i>
+
+</td>
+</tr>
+</table>
+
+## B.Sc. Data Science & AI student at B.K. Birla College  
 🤖 Interested in Machine Learning, Artificial Intelligence & Computer Vision  
 📊 Building data-driven applications and ML projects  
 ⚙️ Exploring DevOps, MLOps, CI/CD & AI deployment  
 🏆 Smart India Hackathon 2026 — Team Vanguard  
 🚀 Currently working on **Viranikosh**, an AI-powered cultural heritage preservation platform
 🎯 Current Focus
-
 📚 Strengthening my **Data Science & Machine Learning** skills
 ⚙️ Learning **MLOps, Docker, CI/CD and deployment**
 🧠 Building practical **AI-powered applications**
