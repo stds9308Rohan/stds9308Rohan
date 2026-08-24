@@ -50,64 +50,106 @@
 > **My focus:** Building the complete journey from **raw data → reliable pipelines → machine learning → actionable insights.**
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        SOCIAL LINKS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stds9308Rohan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-naik-87a4b33b0/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ronaldo_1878_/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stds9308@gmail.com)
 
-</div>
+</p>
 
+---
 
-👨‍💻 About Me
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT ME                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 👨‍💻 About Me
+
+### 🎓 B.Sc. Data Science & AI Student
+
+**B.K. Birla College, Kalyan**
+
+> Building a strong foundation in **Data Science, Artificial Intelligence, Machine Learning, and Data Engineering** through academics, hands-on projects, problem solving, and hackathons.
+
+### ⚡ What I Do
+
+- 🤖 Explore **Machine Learning, Artificial Intelligence & Computer Vision**
+- 📊 Build **data-driven applications and ML solutions**
+- ⚙️ Explore **Data Engineering, MLOps & DevOps**
+- 🔄 Learn **CI/CD, Docker & AI deployment workflows**
+- 🏆 Participate in **hackathons and real-world technical projects**
+- 🚀 Currently working on **Viranikosh** — an AI-powered cultural heritage preservation platform
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         EDUCATION                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎓 Education
 
 <table>
 <tr>
+
 <td width="70%">
 
 ### B.Sc. in Data Science & AI
+
 **B.K. Birla College, Kalyan**
 
-Core coursework spans statistics, Python programming, data analysis, and the foundations of machine learning — paired with self-driven project work outside the classroom.
+Core coursework spans **statistics, Python programming, data analysis, SQL, programming, and foundations of machine learning**, complemented by self-driven projects and technical practice.
 
 </td>
 
 <td width="30%" align="center">
 
-<img src="https://img.shields.io/badge/CGPA-9.23%2F10-64FFDA?style=for-the-badge&labelColor=333333&color=64FFDA" alt="CGPA 9.23/10">
+<img
+  src="https://img.shields.io/badge/CGPA-9.23%2F10-64FFDA?style=for-the-badge&labelColor=333333&color=64FFDA"
+  alt="CGPA 9.23/10"
+/>
 
 <br><br>
 
 <i>First Year</i>
 
 </td>
+
 </tr>
 </table>
 
-## B.Sc. Data Science & AI student at B.K. Birla College
+---
 
-[svg](https://github.com/stds9308Rohan/stds9308Rohan/blob/main/README.md#bsc-data-science--ai-student-at-bk-birla-college)
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         CURRENT FOCUS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-🤖 Interested in Machine Learning, Artificial Intelligence & Computer Vision  
-📊 Building data-driven applications and ML projects  
-⚙️ Exploring DevOps, MLOps, CI/CD & AI deployment  
-🏆 Smart India Hackathon 2026 — Team Vanguard  
-🚀 Currently working on **Viranikosh**, an AI-powered cultural heritage preservation platform
+## 🎯 Current Focus
 
-🎯 Current Focus
+| Area | Focus |
+|---|---|
+| 📚 **Data Science** | Strengthening Python, SQL, Statistics & Data Analysis |
+| 🤖 **Machine Learning** | Building practical ML & AI applications |
+| ⚙️ **Data Engineering** | Exploring ETL pipelines, APIs & data workflows |
+| 🐳 **MLOps / DevOps** | Learning Docker, CI/CD & deployment |
+| 🧩 **DSA** | Consistent LeetCode problem solving |
+| 🚀 **Projects** | Building real-world AI & Data projects |
 
-📚 Strengthening my **Data Science & Machine Learning** skills  
-⚙️ Learning **MLOps, Docker, CI/CD and deployment**  
-🧠 Building practical **AI-powered applications**  
-🚀 Contributing to real-world **hackathon projects**
+### ⚡ My Approach
 
-## Learn → Build → Deploy → Improve
+**Learn → Build → Deploy → Improve**
 
 ---
 
-🛠️ Tech Arsenal
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         TECH ARSENAL                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🧠 Tech Stack
+## 🛠️ Tech Arsenal
 
 ### 👨‍💻 Programming
 
@@ -178,21 +220,23 @@ Core coursework spans statistics, Python programming, data analysis, and the fou
 
 ---
 
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         HIGHLIGHTS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏆 Highlights
+
+🏆 **2× Hackathon Participant**  
+🥉 **Rank 3 — Semester II**  
+📊 **9.3+ CGPA**  
+🚀 **AI • Data Science • Engineering Projects**  
+🏃 **Competitive Sprinter Athletics • Since 2014**
+
+---
 
 <!-- ========================================================= -->
 <!--              ⚡ GITHUB COMMAND CENTER                     -->
 <!-- ========================================================= -->
-
-## 🏆 Highlights
-
-🏆 2× Hackathon Participant  
-🥉 Rank 3 — Semester II  
-📊 9.3+ CGPA  
-🚀 AI • Data Science • Engineering Projects  
-🏃 Competitive Sprinter Athletics • Since 2014
-
-<!-- ================================================-->
 
 <h2 align="center">⚡ GitHub Command Center</h2>
 
