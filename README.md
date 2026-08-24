@@ -5,6 +5,7 @@
     alt="Rohan Naik - Data Engineering Banner"
   />
 </p>
+
 <!-- 🚀 ANIMATED PROFILE HEADER -->
 
 <p align="center">
@@ -35,6 +36,7 @@
     width="90%"
   />
 </p>
+
 <p align="center">
 
 ### ⚡ Building Intelligent Systems from Data
@@ -44,18 +46,19 @@
 </p>
 
 ---
+
 > **My focus:** Building the complete journey from **raw data → reliable pipelines → machine learning → actionable insights.**
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stds9308Rohan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-naik-87a4b33b0/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ronaldo_1878_/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stds9308@gmail.com)
+
 </div>
 
 
 👨‍💻 About Me
+
 ## 🎓 Education
 
 <table>
@@ -81,38 +84,39 @@ Core coursework spans statistics, Python programming, data analysis, and the fou
 </tr>
 </table>
 
-## B.Sc. Data Science & AI student at B.K. Birla College  
-> Building a strong foundation in **Data Science, Artificial Intelligence, Machine Learning, and Data Engineering** through academics, hands-on projects, and hackathons.
-> 
-### ⚡ What I Do
+## B.Sc. Data Science & AI student at B.K. Birla College
 
-- 🤖 Explore **Machine Learning, Artificial Intelligence & Computer Vision**
-- 📊 Build **data-driven applications and ML solutions**
-- ⚙️ Develop skills in **Data Engineering, MLOps & DevOps**
-- 🔄 Learn **CI/CD, Docker & AI deployment workflows**
-- 🏆 Participate in **Hackathons & real-world technical projects**
-- 🚀 Currently working on **Viranikosh** — an AI-powered cultural heritage preservation platform
+[svg](https://github.com/stds9308Rohan/stds9308Rohan/blob/main/README.md#bsc-data-science--ai-student-at-bk-birla-college)
 
-### 🎯 Current Focus
+🤖 Interested in Machine Learning, Artificial Intelligence & Computer Vision  
+📊 Building data-driven applications and ML projects  
+⚙️ Exploring DevOps, MLOps, CI/CD & AI deployment  
+🏆 Smart India Hackathon 2026 — Team Vanguard  
+🚀 Currently working on **Viranikosh**, an AI-powered cultural heritage preservation platform
 
-```text
-📚 Data Science & Machine Learning
-⚙️ Data Engineering & ETL Pipelines
-🐳 Docker & CI/CD
-🤖 AI / ML Deployment
-🚀 Building Production-Ready Projects
-Learn → Build → Deploy → Improve
+🎯 Current Focus
+
+📚 Strengthening my **Data Science & Machine Learning** skills  
+⚙️ Learning **MLOps, Docker, CI/CD and deployment**  
+🧠 Building practical **AI-powered applications**  
+🚀 Contributing to real-world **hackathon projects**
+
+## Learn → Build → Deploy → Improve
+
 ---
 
 🛠️ Tech Arsenal
+
 ## 🧠 Tech Stack
 
 ### 👨‍💻 Programming
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
 </p>
 
 ### 📊 Data Science
+
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
@@ -120,11 +124,13 @@ Learn → Build → Deploy → Improve
 `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Jupyter`
 
 ### 🗄️ Data & Databases
+
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
 ### ⚙️ Engineering & DevOps
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
@@ -170,22 +176,22 @@ Learn → Build → Deploy → Improve
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 ---
-
 
 </div>
 
 <!-- ========================================================= -->
 <!--              ⚡ GITHUB COMMAND CENTER                     -->
 <!-- ========================================================= -->
+
 ## 🏆 Highlights
 
-🏆 2× Hackathon Participant
-🥉 Rank 3 — Semester II
+🏆 2× Hackathon Participant  
+🥉 Rank 3 — Semester II  
 📊 9.3+ CGPA  
 🚀 AI • Data Science • Engineering Projects  
 🏃 Competitive Sprinter Athletics • Since 2014
+
 <!-- ================================================-->
 
 <h2 align="center">⚡ GitHub Command Center</h2>
