@@ -250,10 +250,12 @@ Core coursework spans **statistics, Python programming, data analysis, SQL, prog
 <br>
 
 <!-- ===================== LIVE STATS ======================== -->
-## 📊 Contribution Intelligence
+## ◈ Contribution Intelligence
 
 <p align="center">
-  <img src="./assets/contributions-3d.svg" width="100%" alt="3D GitHub Contribution Graph"/>
+  <img src="./assets/contributions-3d.svg"
+       width="100%"
+       alt="Rohan Naik 3D Contribution Intelligence"/>
 </p>
 
 <p align="center">
