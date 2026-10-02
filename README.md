@@ -226,7 +226,7 @@ Core coursework spans **statistics, Python programming, data analysis, SQL, prog
 
 ## 🏆 Highlights
 
-🏆 **2× Hackathon Participant**  
+🏆 **3× Hackathon Participant**  
 🥉 **Rank 3 — Semester II**  
 📊 **9.3+ CGPA**  
 🚀 **AI • Data Science • Engineering Projects**  
@@ -250,6 +250,11 @@ Core coursework spans **statistics, Python programming, data analysis, SQL, prog
 <br>
 
 <!-- ===================== LIVE STATS ======================== -->
+## 📊 Contribution Intelligence
+
+<p align="center">
+  <img src="./assets/contributions-3d.svg" width="100%" alt="3D GitHub Contribution Graph"/>
+</p>
 
 <p align="center">
 
