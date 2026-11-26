@@ -115,8 +115,8 @@ Core coursework spans **statistics, Python programming, data analysis, SQL, prog
 
 <br><br>
 
-<i>First Year</i> <br><br>
-<i>Second Year</i>
+<i>First Year 9.23</i> <br><br>
+<i>Second Year 9.3</i>
 
 </td>
 
