@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">RXTRACKER</title>
+  <desc id="desc">RX in red gaming typography and TRACKER in white, framed by a tactical targeting HUD.</desc>
+  <defs>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff4545"/>
+      <stop offset="1" stop-color="#b90018"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="150" rx="12" fill="#080d14"/>
+  <g fill="none" stroke="#6b101c" stroke-width="2" opacity=".9">
+    <path d="M35 30H260l20 14H920l18-14h227"/>
+    <path d="M35 120H260l20-14H920l18 14h227"/>
+  </g>
+  <g fill="none" stroke="#d71930" stroke-width="3" opacity=".9">
+    <circle cx="94" cy="75" r="47"/>
+    <circle cx="94" cy="75" r="35" stroke-dasharray="5 8"/>
+    <path d="M94 12V40M94 110v28M31 75h28M129 75h28"/>
+  </g>
+  <text x="178" y="103" font-family="Arial Black, Impact, sans-serif" font-size="91" font-weight="900" font-style="italic" letter-spacing="-5" fill="url(#red)" filter="url(#glow)">RX</text>
+  <text x="385" y="101" font-family="Arial, Helvetica, sans-serif" font-size="75" font-weight="700" letter-spacing="5" fill="#f5f7fb">TRACKER</text>
+  <path d="M390 119H1088" stroke="#d71930" stroke-width="3"/>
+  <path d="M1100 119l13-13 13 13 13-13" fill="none" stroke="#d71930" stroke-width="4"/>
+</svg>
