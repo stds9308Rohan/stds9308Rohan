@@ -42,10 +42,10 @@ for i,d in enumerate(days):
     if n:
         h=min(90, n/maxc*90)
         color="#14532d" if n/maxc>.65 else "#15803d" if n/maxc>.3 else "#65a30d" if n/maxc>.1 else "#a3e635"
-        top=f"{x},{y-h} {x+sx},{y+sy-h} {x},{y+2*sy-h} {x-sx},{y+sy-h}"
+        top_face=f"{x},{y-h} {x+sx},{y+sy-h} {x},{y+2*sy-h} {x-sx},{y+sy-h}"
         left=f"{x-sx},{y+sy-h} {x},{y+2*sy-h} {x},{y+2*sy} {x-sx},{y+sy}"
         right=f"{x+sx},{y+sy-h} {x},{y+2*sy-h} {x},{y+2*sy} {x+sx},{y+sy}"
-        add(f'<polygon points="{left}" fill="#166534"/><polygon points="{right}" fill="#0f5132"/><polygon points="{top}" fill="{color}" stroke="#d9f99d" stroke-opacity=".25"/>')
+        add(f'<polygon points="{left}" fill="#166534"/><polygon points="{right}" fill="#0f5132"/><polygon points="{top_face}" fill="{color}" stroke="#d9f99d" stroke-opacity=".25"/>')
 metrics=[("CONTRIBUTIONS",cal["totalContributions"]),("COMMITS",cc["totalCommitContributions"]),("PULL REQUESTS",cc["totalPullRequestContributions"]),("ISSUES",cc["totalIssueContributions"]),("REVIEWS",cc["totalPullRequestReviewContributions"]),("PUBLIC REPOS",u["repositories"]["totalCount"])]
 for i,(label,value) in enumerate(metrics):
     x, y = 1040+(i%2)*190, 185+(i//2)*105
