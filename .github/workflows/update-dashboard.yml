@@ -1,0 +1,29 @@
+name: Refresh GitHub Intelligence Dashboard
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 2 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_dashboard.py"
+      - ".github/workflows/update-dashboard.yml"
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate dashboard from GitHub GraphQL
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_USERNAME: stds9308Rohan
+        run: python scripts/generate_dashboard.py
+      - name: Commit refreshed dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-dashboard.svg
+          git diff --cached --quiet || git commit -m "chore: refresh GitHub intelligence dashboard"
+          git push
