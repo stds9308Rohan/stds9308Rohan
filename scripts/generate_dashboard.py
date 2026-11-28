@@ -46,7 +46,7 @@ for i,d in enumerate(days):
         left=f"{x-sx},{y+sy-h} {x},{y+2*sy-h} {x},{y+2*sy} {x-sx},{y+sy}"
         right=f"{x+sx},{y+sy-h} {x},{y+2*sy-h} {x},{y+2*sy} {x+sx},{y+sy}"
         add(f'<polygon points="{left}" fill="#166534"/><polygon points="{right}" fill="#0f5132"/><polygon points="{top}" fill="{color}" stroke="#d9f99d" stroke-opacity=".25"/>')
-metrics=[("CONTRIBUTIONS",cal["totalContributions"]),("COMMITS",cc["totalCommitContributions"]),("PULL REQUESTS",cc["totalPullRequestContributions]),("ISSUES",cc["totalIssueContributions"]),("REVIEWS",cc["totalPullRequestReviewContributions"]),("PUBLIC REPOS",u["repositories"]["totalCount"])]
+metrics=[("CONTRIBUTIONS",cal["totalContributions"]),("COMMITS",cc["totalCommitContributions"]),("PULL REQUESTS",cc["totalPullRequestContributions"]),("ISSUES",cc["totalIssueContributions"]),("REVIEWS",cc["totalPullRequestReviewContributions"]),("PUBLIC REPOS",u["repositories"]["totalCount"])]
 for i,(label,value) in enumerate(metrics):
     x, y = 1040+(i%2)*190, 185+(i//2)*105
     add(f'<rect x="{x}" y="{y}" width="170" height="78" rx="13" fill="#14263a" stroke="#2b4056"/>')
