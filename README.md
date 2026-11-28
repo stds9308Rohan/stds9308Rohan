@@ -250,6 +250,20 @@ Core coursework spans **statistics, Python programming, data analysis, SQL, prog
 
 <br>
 
+## 🧊 GitHub Intelligence — 3D Activity Analytics
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/stds9308Rohan/stds9308Rohan/main/assets/github-dashboard.svg"
+    width="100%"
+    alt="Rohan Naik GitHub 3D contribution landscape and activity analytics"
+  />
+</p>
+
+<p align="center">
+  <sub>Isometric contribution terrain · commits · pull requests · issues · reviews · repository language mix</sub>
+</p>
+
 <!-- ===================== LIVE STATS ======================== -->
 
 <p align="center">
