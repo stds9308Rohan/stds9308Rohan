@@ -109,7 +109,7 @@ Core coursework spans **statistics, Python programming, data analysis, SQL, prog
 <td width="30%" align="center">
 
 <img
-  src="https://img.shields.io/badge/CGPA-9.23%2F10-64FFDA?style=for-the-badge&labelColor=333333&color=64FFDA"
+  src="https://img.shields.io/badge/CGPA-9.3%2F10-64FFDA?style=for-the-badge&labelColor=333333&color=64FFDA"
   alt="CGPA 9.3/10"
 />
 
