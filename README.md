@@ -250,7 +250,13 @@ Core coursework spans **statistics, Python programming, data analysis, SQL, prog
 
 <br>
 
-## 🧊 GitHub Intelligence — 3D Activity Analytics
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/stds9308Rohan/stds9308Rohan/main/assets/rxtracker-title.svg"
+    width="100%"
+    alt="RXTRACKER — RX in red and TRACKER in white"
+  />
+</p>
 
 <p align="center">
   <img
