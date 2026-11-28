@@ -19,7 +19,7 @@ cc, cal = u["contributionsCollection"], u["contributionsCollection"]["contributi
 days = [d for w in cal["weeks"] for d in w["contributionDays"]][-371:]
 langs = Counter((r.get("primaryLanguage") or {}).get("name") for r in u["repositories"]["nodes"])
 langs.pop(None, None)
-top = langs.most_common(5)
+top = sorted(langs.items(), key=lambda item: item[1], reverse=True)[:5]
 denom = sum(langs.values()) or 1
 svg = []
 def add(s): svg.append(s)
@@ -65,5 +65,5 @@ add('<path d="M65 690H1435" stroke="#2b4056"/>')
 add(f'<text x="67" y="724" fill="#8ca3b8" font-size="12" font-family="Arial">github.com/{USER} · {u["followers"]["totalCount"]} followers · {u["following"]["totalCount"]} following</text>')
 add('<text x="1430" y="724" text-anchor="end" fill="#71869c" font-size="11" font-family="Arial">GitHub GraphQL API · public data · auto-updated</text>')
 add('</svg>')
-Path("assets/github-dashboard.svg").write_text("\\n".join(svg), encoding="utf-8")
+Path("assets/github-dashboard.svg").write_text("\n".join(svg), encoding="utf-8")
 print("Dashboard SVG generated.")
