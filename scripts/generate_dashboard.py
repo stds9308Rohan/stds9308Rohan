@@ -69,7 +69,7 @@ for i, d in enumerate(days):
     add(f'<text x="{x}" y="{tip_y+36}" text-anchor="middle" fill="#ffffff" font-size="12" font-weight="bold" font-family="Arial">{n} CONTRIBUTIONS</text></g>')
     add('</g>')
 
-metrics = [("CONTRIBUTIONS",cal["totalContributions"]),("COMMITS",cc["totalCommitContributions]),("PULL REQUESTS",cc["totalPullRequestContributions]),("ISSUES",cc["totalIssueContributions]),("REVIEWS",cc["totalPullRequestReviewContributions]),("PUBLIC REPOS",u["repositories"]["totalCount"])]
+metrics = [("CONTRIBUTIONS", cal["totalContributions"]), ("COMMITS", cc["totalCommitContributions"]), ("PULL REQUESTS", cc["totalPullRequestContributions"]), ("ISSUES", cc["totalIssueContributions"]), ("REVIEWS", cc["totalPullRequestReviewContributions"]), ("PUBLIC REPOS", u["repositories"]["totalCount"])]
 for i, (label, value) in enumerate(metrics):
     x, y = 1040+(i%2)*190, 185+(i//2)*105
     add(f'<rect x="{x}" y="{y}" width="170" height="78" rx="13" fill="#14263a" stroke="#2b4056"/>')
